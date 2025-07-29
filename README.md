@@ -25,7 +25,7 @@
 - `POST /members` - Create a new member
 - `GET /members` - List all members
 - `GET /members/{id}` - Get a member by ID
-- `PUT /members/{id}` - Update a member
+- `PATCH /members/{id}` - Update a member
 - `DELETE /members/{id}` - Delete a member
 
 ## Configuration
